@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700;400&display=swap');
+@import "tailwindcss";
+
+@theme {
+ /* colors */
+ --color-blue-200: hsl(243, 100%, 93%);
+ --color-blue-grayish: hsl(229, 7%, 55%);
+ --color-blue-850: hsl(228, 56%, 26%);
+ --color-blue-950: hsl(229, 57%, 11%);
+
+ /* breakpoint */
+ --breakpoint-mobile: 36rem;
+ --breakpoint-desktop: 90rem;
+
+ /* font */
+ --font-raleway: "Raleway", sans-serif;
+}
