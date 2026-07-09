@@ -23,9 +23,7 @@ A professional application for calculating age with high accuracy and complete v
 ### 🛠️ Tech Stack
 
 - HTML5 Semantic
-- CSS3 (Custom Properties, BEM Methodology)
 - Tailwindcss v4
-- Vanilla JavaScript (ES6+)
 - Vite as Build Tool
 - GitHub Pages for Deployment
 
